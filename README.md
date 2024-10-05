@@ -24,7 +24,7 @@ Welcome to your ultimate guide on **overclocking your GPU**! This instructional 
 
 ### Step 2: Open the Monitoring Software
 2. Launch **HWMonitor** to keep track of GPU temperatures and clock speeds.
-   ![HWMonitor Screenshot](https://cdn.lo4d.com/t/screenshot/ipr/hwmonitor.png) <!-- Replace with a screenshot of HWMonitor -->
+   ![HWMonitor Screenshot](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fqhovhkwmgr5a1.jpg) <!-- Replace with a screenshot of HWMonitor -->
 
 ### Step 3: Increase Core Clock Speed
 3. Gradually increase the core clock speed in MSI Afterburner by 10-20 MHz.
