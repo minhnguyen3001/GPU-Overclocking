@@ -39,7 +39,7 @@ Welcome to your ultimate guide on **overclocking your GPU**! This instructional 
    ![Memory Clock Adjustment](https://example.com/memory-clock-adjustment.jpg) <!-- Replace with an image showing memory clock adjustment -->
 
 ### Step 6: Monitor Temperatures
-6. Continuously monitor your GPU's temperature. Ensure it does not exceed 80°C under load.
+6. Continuously monitor your GPU's temperature. Ensure it does not exceed 85°C under load.
    ![Temperature Monitoring](https://example.com/temperature-monitoring.jpg) <!-- Replace with an image of temperature monitoring -->
 
 ### Step 7: Fine-Tuning
@@ -50,20 +50,14 @@ Welcome to your ultimate guide on **overclocking your GPU**! This instructional 
 8. Once satisfied with your overclock settings, save the profile in MSI Afterburner for future use.
    ![Profile Saving](https://example.com/profile-saving.jpg) <!-- Replace with an image of saving settings -->
 
+### Step 9: Benchmarking your GPU with your new overclock settings
+9. You can benchmark your GPU by going into the benchmarking mode in any video game setting, or you can install the benchmarking software that I mentioned in the material that is needed for this tutorial section above.
+
 ## Conclusion
-Congratulations! You have successfully overclocked your GPU. You should now notice improved performance in gaming and graphics applications. To ensure your GPU functions correctly, regularly monitor temperatures and system stability. 
+Congratulations! You have successfully overclocked your GPU. You should now notice improved performance in gaming and graphics applications. To ensure your GPU functions correctly, regularly check the temperature of your GPU and make sure it does not exceed 85°C.
 
 ### Troubleshooting Tips:
-- If your system crashes or exhibits artifacts, reduce the overclock settings.
-- If temperatures exceed 80°C, consider improving cooling solutions or reverting to default settings.
+- If your system crashes, then you should reduce the overclock settings.
+- If temperatures of the GPU exceed 85°C, you should consider improving cooling solutions or reverting to default settings.
 
-By following these steps, you're on your way to maximizing your GPU's potential. If you encounter any issues or need further assistance, feel free to reach out to the gaming community online.
-
----
-
-## Audience Considerations
-This instructional guide is aimed at computer science students and gaming enthusiasts interested in optimizing their hardware performance. It is presented in a clear, easy-to-understand format suitable for a YouTube video tutorial. The visuals provided will support the written instructions, ensuring clarity for all skill levels.
-
----
-
-Feel free to replace the placeholder image links with actual images that you have or create. Adjust any sections as needed, and let me know if you need further assistance!
+By following these steps, you should able to maximize your GPU's performance. If you encounter any issues or need further assistance, feel free to reach out to the gaming community online.
