@@ -10,7 +10,7 @@ Welcome to your ultimate guide on **overclocking your GPU**! This instructional 
 - Overclocking software (e.g., [MSI Afterburner](https://www.msi.com/page/afterburner))
 - Monitoring software (e.g., [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html), [GPU-Z](https://www.techpowerup.com/gpuz/))
 - Benchmarking software (e.g., [3DMark](https://www.futuremark.com/benchmarks/3dmark), [Unigine Heaven](https://unigine.com/heaven))
-- A reliable cooling solution (e.g., improved fans or aftermarket coolers)
+- A reliable cooling solution (e.g., improved fans or aftermarket coolers) is optional 
 
 ## Step-by-Step Instructions
 
