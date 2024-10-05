@@ -20,7 +20,7 @@ Welcome to your ultimate guide on **overclocking your GPU**! This instructional 
 
 ### Step 1: Install Overclocking Software
 1. Download and install **MSI Afterburner** from the [official website](https://www.msi.com/page/afterburner).
-   ![MSI Afterburner Installation](https://example.com/msi-installation.jpg) <!-- Replace with an image of the installation process -->
+   ![MSI Afterburner Installation](https://storage-asset.msi.com/event/2020/vga/AfterburnerNew/image/afbr.jpg) <!-- Replace with an image of the installation process -->
 
 ### Step 2: Open the Monitoring Software
 2. Launch **HWMonitor** to keep track of GPU temperatures and clock speeds.
