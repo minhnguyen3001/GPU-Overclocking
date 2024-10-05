@@ -9,10 +9,10 @@
 - [Tips and Warnings](#tips-and-warnings)
 
 ## What is a GPU?
-A **Graphics Processing Unit (GPU)** is a specialized electronic circuit designed to accelerate the processing of images and videos. GPUs are essential components in modern computers, particularly for gaming, graphic design, and machine learning applications. Unlike CPUs, which handle general processing tasks, GPUs excel in performing parallel operations, making them ideal for rendering graphics and performing computations across many data points simultaneously.
+A **Graphics Processing Unit (GPU)** is a specialized electronic circuit designed to accelerate the processing of images and videos. GPUs are one of the most critical components in modern computers, particularly for gaming, graphic design, and machine learning applications. Unlike CPUs, which handle general processing tasks, GPUs excel in performing parallel operations, making them ideal for rendering graphics and performing computations across many data points simultaneously.
 
 ## What is Overclocking?
-**Overclocking** refers to the practice of increasing the clock rate of a computer's hardware components beyond the manufacturer's specifications. By overclocking a GPU, users can improve its performance, resulting in higher frame rates in games and faster rendering times in graphics-intensive applications. However, overclocking can also lead to increased heat output and power consumption, so it should be approached with caution.
+**Overclocking** refers to the practice of increasing the clock rate of a computer's hardware components beyond the manufacturer's specifications. By overclocking a GPU, users can improve its performance, resulting in higher frame rates in games and faster rendering times in graphics-intensive applications. However, overclocking can also lead to overheat and increase power consumption, so this instruction set will prevent you from making your GPU become overheat 
 
 ## Prerequisites
 Before you begin overclocking your GPU, ensure that you have:
