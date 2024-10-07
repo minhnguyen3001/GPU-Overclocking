@@ -54,10 +54,10 @@ Welcome to the guidence on **overclocking your GPU**! This instructional set is 
 9. You can benchmark your GPU by going into the benchmarking mode in any video game setting, or you can install the benchmarking software that I mentioned in the material that is needed for this tutorial section above.
 
 ## Conclusion
-Congratulations! You have successfully overclocked your GPU. You should now notice improved performance in gaming and graphics applications. To ensure your GPU functions correctly, regularly check the temperature of your GPU and make sure it does not exceed 85°C.
+Congratulations! You have successfully overclocked your GPU. You should now notice improved performance in gaming and graphics applications. Your GPU should be able to stay below 85°C when running application that demanding high graphic rendering. To ensure your GPU functions correctly, regularly check the temperature of your GPU and make sure it does not exceed 85°C.
 
 ### Troubleshooting Tips:
 - If your system crashes, then you should reduce the overclock settings.
 - If temperatures of the GPU exceed 85°C, you should consider improving cooling solutions or reverting to default settings.
-- 
+
 By following these steps, you should able to maximize your GPU's performance. If you encounter any issues or need further assistance, feel free to reach out to the gaming community online.
