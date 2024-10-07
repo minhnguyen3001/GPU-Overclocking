@@ -1,7 +1,7 @@
 # How to Overclocking Your GPU: A Step-by-Step Guide
 
 ## Introduction
-Welcome to your ultimate guide on **overclocking your GPU**! This instructional set is designed to help optimize the performance of your graphics card, allowing for smoother gaming experiences and faster rendering times. Overclocking can be frustrating, but with the right steps and guidance, you'll be able to optimize your GPU safely without damaging your GPU.
+Welcome to the guidence on **overclocking your GPU**! This instructional set is designed to help optimize the performance of your graphics card, allowing for smoother gaming experiences and faster rendering times. Overclocking can be frustrating, but with the right steps and guidance, you'll be able to optimize your GPU safely without damaging your GPU.
 
 **Estimated Time**: Approximately 30-45 minutes
 
