@@ -7,7 +7,7 @@ Welcome to the guidence on **overclocking your GPU**! This instructional set is 
 
 ### What is a GPU: Graphic Processor Unit (GPU) is a crucial part of the modern-day computer,
 
-### Why we need overclock a GPU: Overclocking a GPU can help it optimize the performence out of the designed range from the manufacture
+### Why we need overclock a GPU: Overclocking a GPU can help it optimize the performence out of the designed range from the manufacture that will provide you a better experience when you using your GPU
 
 ### Materials Needed:
 - A compatible GPU (check the manufacturer's specifications)
