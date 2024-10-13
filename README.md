@@ -5,7 +5,7 @@ Welcome to the guidance on **overclocking your GPU**! This instructional set is 
 
 **Estimated Time**: Approximately 30-45 minutes
 
-### What is a GPU: A Graphic Processor Unit (GPU) is a crucial part of the modern-day computer, a GPU will have a faster image rendering time and is more efficient when compared to the CPU (Central processing unit) (https://www.youtube.com/watch?v=-P28LKWTzrI).
+### What is a GPU: A Graphic Processor Unit (GPU) is a crucial part of the modern-day computer, a [GPU](https://www.youtube.com/watch?v=-P28LKWTzrI) will have a faster image rendering time and is more efficient when compared to the CPU (Central processing unit).
 
 ### Why we need to overclock a GPU: Overclocking a GPU can help it optimize the performance out of the designed range from the manufacturer and will provide you with a better experience when you using your GPU.
 
