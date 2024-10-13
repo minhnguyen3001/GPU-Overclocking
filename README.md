@@ -33,25 +33,26 @@ Welcome to the guidence on **overclocking your GPU**! This instructional set is 
 ### Step 4: Test for Stability
 4. Use **3DMark** to benchmark your GPU and test for stability.
    ![3DMark Benchmark]( <!-- Replace with an image of a benchmark result -->
+   
+### Step 5: Benchmarking your GPU with your new overclock settings
+5. You can benchmark your GPU by going into the benchmarking mode in any video game setting, or you can install the benchmarking software that I mentioned in the material that is needed for this tutorial section above.
 
-### Step 5: Adjust Memory Clock Speed
-5. If stable, increase the memory clock speed in the same manner as the core clock.
+### Step 6: Adjust Memory Clock Speed
+6. If stable, increase the memory clock speed in the same manner as the core clock.
    ![Memory Clock Adjustment](<!-- Replace with an image showing memory clock adjustment -->
 
-### Step 6: Monitor Temperatures
-6. Continuously monitor your GPU's temperature. Ensure it does not exceed 85°C under load.
+### Step 7: Monitor Temperatures
+7. Continuously monitor your GPU's temperature. Ensure it does not exceed 85°C under load.
    ![Temperature Monitoring]<!-- Replace with an image of temperature monitoring -->
 
-### Step 7: Fine-Tuning
-7. Make additional adjustments to clock speeds as needed, testing stability after each change.
+### Step 8: Fine-Tuning
+8. Make additional adjustments to clock speeds as needed, testing stability after each change.
    ![Fine-Tuning Steps]<!-- Replace with an image showing the fine-tuning process -->
 
-### Step 8: Save Your Profile
-8. Once satisfied with your overclock settings, save the profile in MSI Afterburner for future use.
+### Step 9: Save Your Profile
+9. Once satisfied with your overclock settings, save the profile in MSI Afterburner for future use. If you are not satisfied with the setting, you can adjust the core clock and memory clock speed again until you satisfied with the overclock setting. 
    ![Profile Saving] <!-- Replace with an image of saving settings -->
 
-### Step 9: Benchmarking your GPU with your new overclock settings
-9. You can benchmark your GPU by going into the benchmarking mode in any video game setting, or you can install the benchmarking software that I mentioned in the material that is needed for this tutorial section above.
 
 ## Conclusion
 Congratulations! You have successfully overclocked your GPU. You should now notice improved performance in gaming and graphics applications. Your GPU should be able to stay below 85°C when running application that demanding high graphic rendering. To ensure your GPU functions correctly, regularly check the temperature of your GPU and make sure it does not exceed 85°C.
