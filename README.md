@@ -24,34 +24,43 @@ Welcome to the guidence on **overclocking your GPU**! This instructional set is 
 
 ### Step 2: Open the Monitoring Software
 2. Launch **HWMonitor** to keep track of GPU temperatures and clock speeds.
-   ![HWMonitor Screenshot]
+   <img width="1920" alt="Screenshot 2024-10-14 010017" src="https://github.com/user-attachments/assets/63cc8d3a-d0ba-4c63-b345-1c601796c1df">
+
 
 ### Step 3: Increase Core Clock Speed
 3. Gradually increase the core clock speed in MSI Afterburner by 10-20 MHz.
-   ![Core Clock Adjustment]<!-- Replace with an image showing core clock adjustment -->
+   <img width="392" alt="Screenshot 2024-10-14 010708" src="https://github.com/user-attachments/assets/06c45a1a-0a6f-4828-85a5-02dd07df313f">
 
-### Step 4: Test for Stability
-4. Use **3DMark** to benchmark your GPU and test for stability.
-   ![3DMark Benchmark]( <!-- Replace with an image of a benchmark result -->
    
-### Step 5: Benchmarking your GPU with your new overclock settings
-5. You can benchmark your GPU by going into the benchmarking mode in any video game setting, or you can install the benchmarking software that I mentioned in the material that is needed for this tutorial section above.
+### Step 4: Adjust Memory Clock Speed
+4. If stable, increase the memory clock speed in the same manner as the core clock.
+   <img width="392" alt="Screenshot 2024-10-14 011141" src="https://github.com/user-attachments/assets/93cc14b2-ffa5-4678-8d1b-6e9015871604">
 
-### Step 6: Adjust Memory Clock Speed
-6. If stable, increase the memory clock speed in the same manner as the core clock.
-   ![Memory Clock Adjustment](<!-- Replace with an image showing memory clock adjustment -->
+
+
+### Step 5: Test for Stability
+5. Use **3DMark** to benchmark your GPU and test for stability. When you go into the 3DMark software, make sure you go to the benchmarking section, and select any benchmarking that you want.
+   <img width="1920" alt="Screenshot 2024-10-14 012905" src="https://github.com/user-attachments/assets/7290b2a0-0ba7-4612-8a3e-0d09c8d0d508">
+
+   
+### Step 6: Benchmarking your GPU with your new overclock settings
+6. You can benchmark your GPU by going into the benchmarking mode in any video game setting, or you can install the benchmarking software that I mentioned in the material that is needed for this tutorial section above.
+
 
 ### Step 7: Monitor Temperatures
 7. Continuously monitor your GPU's temperature. Ensure it does not exceed 85°C under load.
-   ![Temperature Monitoring]<!-- Replace with an image of temperature monitoring -->
+   <img width="392" alt="Screenshot 2024-10-14 011440" src="https://github.com/user-attachments/assets/f47eefdb-d5b8-4ffc-ac10-84be857f53d0">
+
 
 ### Step 8: Fine-Tuning
-8. Make additional adjustments to clock speeds as needed, testing stability after each change.
-   ![Fine-Tuning Steps]<!-- Replace with an image showing the fine-tuning process -->
+8. Make additional adjustments to clock speeds as needed, testing stability after each change. Make sure the FPS (Frames Per Second) of your computer is higher than 60 fps after you benchmark it. 
+   <img width="1920" alt="Screenshot 2024-10-14 012728" src="https://github.com/user-attachments/assets/2e596d96-b22d-424b-a309-612cc6ed6f07">
+
 
 ### Step 9: Save Your Profile
-9. Once satisfied with your overclock settings, save the profile in MSI Afterburner for future use. If you are not satisfied with the setting, you can adjust the core clock and memory clock speed again until you satisfied with the overclock setting. 
-   ![Profile Saving] <!-- Replace with an image of saving settings -->
+9. Once satisfied with your overclock settings, save the profile in MSI Afterburner for future use. If you are not satisfied with the setting, you can adjust the core clock and memory clock speed again until you are satisfied with the overclock setting. <img width="392" alt="Screenshot 2024-10-14 011537" src="https://github.com/user-attachments/assets/669c9235-5c8d-43a4-a85c-2e9f641dafa1">
+
+   
 
 
 ## Conclusion
