@@ -60,7 +60,9 @@ Welcome to the guidance on **overclocking your GPU**! This instructional set is 
 
 
 ### Step 9: Save Your Profile
-9. Once satisfied with your overclock settings, save the profile in MSI Afterburner for future use. If you are not satisfied with the setting, you can adjust the core clock and memory clock speed again until you are satisfied with the overclock setting. <img width="392" alt="Screenshot 2024-10-14 011537" src="https://github.com/user-attachments/assets/669c9235-5c8d-43a4-a85c-2e9f641dafa1">
+9. Once satisfied with your overclock settings, save the profile in MSI Afterburner for future use. If you are not satisfied with the setting, you can adjust the core clock and memory clock speed again until you are satisfied with the overclock setting.
+
+ <img width="392" alt="Screenshot 2024-10-14 011537" src="https://github.com/user-attachments/assets/669c9235-5c8d-43a4-a85c-2e9f641dafa1">
 
    
 
