@@ -49,7 +49,7 @@ Welcome to the guidence on **overclocking your GPU**! This instructional set is 
 
 
 ### Step 7: Monitor Temperatures
-7. Continuously monitor your GPU's temperature. Ensure it does not exceed 85°C under load.
+7. Continuously monitor your GPU's temperature. Ensure it does not exceed 85°C.
    <img width="392" alt="Screenshot 2024-10-14 011440" src="https://github.com/user-attachments/assets/f47eefdb-d5b8-4ffc-ac10-84be857f53d0">
 
 
