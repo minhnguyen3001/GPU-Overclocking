@@ -1,13 +1,13 @@
 # How to Overclocking Your GPU: A Step-by-Step Guide
 
 ## Introduction
-Welcome to the guidence on **overclocking your GPU**! This instructional set is designed to help optimize the performance of your graphics card, allowing for smoother gaming experiences and faster rendering times. Overclocking can be frustrating, but with the right steps and guidance, you'll be able to optimize your GPU safely without damaging your GPU.
+Welcome to the guidance on **overclocking your GPU**! This instructional set is designed to help optimize the performance of your graphics card, allowing for smoother gaming experiences and faster rendering times. Overclocking can be frustrating, but with the right steps and guidance, you'll be able to optimize your GPU safely without damaging your GPU.
 
 **Estimated Time**: Approximately 30-45 minutes
 
-### What is a GPU: Graphic Processor Unit (GPU) is a crucial part of the modern-day computer,
+### What is a GPU: A Graphic Processor Unit (GPU) is a crucial part of the modern-day computer, a GPU will have a faster image rendering time and is more efficient when compared to the CPU (Central processing unit) (https://www.youtube.com/watch?v=-P28LKWTzrI).
 
-### Why we need overclock a GPU: Overclocking a GPU can help it optimize the performence out of the designed range from the manufacture that will provide you a better experience when you using your GPU
+### Why we need to overclock a GPU: Overclocking a GPU can help it optimize the performance out of the designed range from the manufacturer and will provide you with a better experience when you using your GPU.
 
 ### Materials Needed:
 - A compatible GPU (check the manufacturer's specifications)
