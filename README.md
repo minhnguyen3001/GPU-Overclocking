@@ -34,7 +34,7 @@ Welcome to the guidence on **overclocking your GPU**! This instructional set is 
 
    
 ### Step 4: Adjust Memory Clock Speed
-4. If stable, increase the memory clock speed in the same manner as the core clock.
+4. Gradually increase the memory clock speed in the same manner as the core clock.
    <img width="392" alt="Screenshot 2024-10-14 011141" src="https://github.com/user-attachments/assets/93cc14b2-ffa5-4678-8d1b-6e9015871604">
 
 
