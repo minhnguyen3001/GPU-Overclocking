@@ -29,6 +29,7 @@ Welcome to the guidence on **overclocking your GPU**! This instructional set is 
 
 ### Step 3: Increase Core Clock Speed
 3. Gradually increase the core clock speed in MSI Afterburner by 10-20 MHz.
+   
    <img width="392" alt="Screenshot 2024-10-14 010708" src="https://github.com/user-attachments/assets/06c45a1a-0a6f-4828-85a5-02dd07df313f">
 
    
